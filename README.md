@@ -29,6 +29,6 @@ Brief Analysis and Optimization Strategies
 -	Design store-specific promotions to boost underperforming products in stores like Store A and Store B, especially during periods where these products show lower sales volumes.
 -	Use data-driven promotion strategies for products like Product 8, which has potential for high sales but fluctuating performance.
 3.	Location-Based Strategies:
-o	Optimize pricing strategies based on store location, considering that certain products may sell better in different stores at different price points. For example, Product 5 performs better in Store D with higher pricing, so similar strategies could be applied across other products.
+-	Optimize pricing strategies based on store location, considering that certain products may sell better in different stores at different price points. For example, Product 5 performs better in Store D with higher pricing, so similar strategies could be applied across other products.
 4.	Seasonal Promotions:
 -	Capitalize on the increase in sales seen in March by running promotions that align with product trends during this period.
