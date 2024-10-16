@@ -12,7 +12,7 @@ Power BI Sales Performance Dashboard
 
 Brief Analysis and Optimization Strategies
 Brief Analysis:
-1.	Product Sales Patterns:
+####1.	Product Sales Patterns:
 o	Product 7 and Product 10 appear frequently with high sales quantities and revenues across different store locations, especially at Store D and Store C, indicating they are top-selling products.
 o	Product 8 has a moderate sales quantity but shows fluctuating sales revenue across different stores.
 2.	Store Performance:
