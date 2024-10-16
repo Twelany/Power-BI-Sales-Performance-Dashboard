@@ -11,7 +11,7 @@ Power BI Sales Performance Dashboard
 ### Include a brief analysis based on the data visualisation. to identity potential optimization strategies for boosting sales.
 
 Brief Analysis and Optimization Strategies
-##Brief Analysis:
+### Brief Analysis:
 1.	Product Sales Patterns:
 -	Product 7 and Product 10 appear frequently with high sales quantities and revenues across different store locations, especially at Store D and Store C, indicating they are top-selling products.
 -	Product 8 has a moderate sales quantity but shows fluctuating sales revenue across different stores.
@@ -21,7 +21,7 @@ Brief Analysis and Optimization Strategies
 3.	Sales Trends Over Time:
 -	There is a steady increase in sales of high-revenue products from January to March, but some dips in February (e.g., Product 9 shows a drop in sales for Store B on February 8).
 -	Products 5, 7, and 10 show spikes in sales, particularly during March, indicating potential seasonal or promotional boosts.
-##Potential Optimization Strategies:
+### Potential Optimization Strategies:
 1.	Inventory Optimization:
 -	Focus on stocking more of Product 7 and Product 10 in high-performing stores like Store C and Store D as they generate high revenues.
 -	Implement a dynamic restocking strategy where low-performing products (e.g., Product 1, Product 2) are only stocked in specific locations or during promotional periods to avoid excess inventory.
